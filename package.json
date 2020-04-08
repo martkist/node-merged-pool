@@ -37,7 +37,7 @@
         "unomp-multi-hashing": "*",
         "bignum": "0.12.5",
         "base58-native": "*",
-        "async": "*",
+        "async": "1.5.2",
         "redis": "*"
     },
     "engines": {
