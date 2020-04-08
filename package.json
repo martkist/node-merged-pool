@@ -35,7 +35,7 @@
     },
     "dependencies": {
         "unomp-multi-hashing": "*",
-        "bignum": "*",
+        "bignum": "0.12.5",
         "base58-native": "*",
         "async": "*",
         "redis": "*"
